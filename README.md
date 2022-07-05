@@ -1,11 +1,13 @@
 ## Summary:
-### What is Kong?
 
-What is Konga?
+What is Kong?
 - Is an open source API Gateway (Middleware)
 
+What is Konga?
+- Opensource admin UI for Kong
+
 What is a service?
-- Like a set of configuration: where to route to, which middleware(plugin) to execute.
+- Like a set of configurations: where to route to, which middleware(plugin) to execute.
 
 What is a route?
 - Like an input route and service is an output
